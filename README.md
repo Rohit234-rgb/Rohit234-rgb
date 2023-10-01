@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rohit234-rgb
-- 👀 I’m interested in design
-- 🌱 I’m currently learning mechanical engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data analyst 
+- 🌱 I have completed mechanical engineering degree
+- 💞️ I’m looking to collaborate on design 
+- 📫 Reach upto me rohitghodke001@gmail.com
 
 <!---
 Rohit234-rgb/Rohit234-rgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
